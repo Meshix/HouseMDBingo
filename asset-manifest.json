@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/house-md-bingo/static/css/main.538006be.css",
-    "main.js": "/house-md-bingo/static/js/main.6dd9e9ed.js",
-    "index.html": "/house-md-bingo/index.html",
-    "main.538006be.css.map": "/house-md-bingo/static/css/main.538006be.css.map",
-    "main.6dd9e9ed.js.map": "/house-md-bingo/static/js/main.6dd9e9ed.js.map"
+    "main.css": "/HouseMDBingo/static/css/main.538006be.css",
+    "main.js": "/HouseMDBingo/static/js/main.6dd9e9ed.js",
+    "index.html": "/HouseMDBingo/index.html",
+    "main.538006be.css.map": "/HouseMDBingo/static/css/main.538006be.css.map",
+    "main.6dd9e9ed.js.map": "/HouseMDBingo/static/js/main.6dd9e9ed.js.map"
   },
   "entrypoints": [
     "static/css/main.538006be.css",
